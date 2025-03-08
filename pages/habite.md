@@ -1,1 +1,1 @@
-- habiter, c'est vivre dans un endroit: Pi
+- habiter, c'est vivre dans un endroit: Pierre habite à la campagne
