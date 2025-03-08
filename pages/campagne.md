@@ -1,1 +1,1 @@
-- un champ est un grand terrain à la campagne o
+- un champ est un grand terrain à la campagne où l'on cult
