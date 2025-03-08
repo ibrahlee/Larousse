@@ -1,1 +1,1 @@
-- une plante, c'est ce qui pousse dans la terre.
+- une plante, c'est ce qui pousse dans la terre. Elle est fixée au sol par ses racines:
