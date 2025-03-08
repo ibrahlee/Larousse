@@ -1,0 +1,1 @@
+- une tige, la tige d'une plante c'est la partie
