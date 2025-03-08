@@ -1,1 +1,2 @@
 - une paille, la paille, c'est la tige coupée des céréales: les animaux de la ferme dorment sur de la paille
+- une paille, c'est un petit tuy
