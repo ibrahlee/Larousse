@@ -1,2 +1,2 @@
 - un étage
-  Les étages d'un immeuble ce sont les différents nivea
+  Les étages d'un immeuble ce sont les différents niveaux, placés les uns au-
