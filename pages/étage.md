@@ -1,2 +1,2 @@
 - un étage
-  Les étages
+  Les étages d'un immeuble ce sont les différents nivea
