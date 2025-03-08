@@ -1,1 +1,1 @@
-- un champ
+- un champ est un grand terrain
