@@ -1,1 +1,1 @@
-- un immeuble, c'est un grand bâti
+- un immeuble, c'est un grand bâtiment avec des appartements sur plusieurs étages:
