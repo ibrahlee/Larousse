@@ -1,1 +1,1 @@
-- une paille, la paille
+- une paille, la paille, c'est la tige coupée des céréales: les ani
