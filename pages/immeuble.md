@@ -1,1 +1,1 @@
-- un immeuble
+- un immeuble, c'est un grand bâti
