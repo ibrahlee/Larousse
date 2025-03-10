@@ -1,3 +1,3 @@
 - Un bouton est un petit objet qui est cousu sur un vêtement. Il sert à le fermer: une chemise est un vêtement qui a des boutons devant. Fermer un vêtement avec des boutons, c'est le boutonner.
 - Un bouton est un gros point rouge qui apparît parfois sur la peau: la rougeole donne des boutons.
-- Un bouton est un petit objet qui sert
+- Un bouton est un petit objet qui sert à allumer ou à étei
