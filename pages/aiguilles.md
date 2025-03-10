@@ -1,1 +1,1 @@
-- Une aiguille est une petit tige fine en métal qui sert à coudre: une aigui
+- Une aiguille est une petit tige fine en métal qui sert à coudre: une aiguille a un bout pointu et un petit trou pour passer le fil.
