@@ -1,1 +1,1 @@
-- un arbre est une très grande plante qui a un tronc, des branches et des feuilles:
+- un arbre est une très grande plante qui a un tronc, des branches et des feuilles: un platane, un peuplier
