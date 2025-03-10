@@ -1,1 +1,1 @@
-- Un bouton est un petit objet qui est cousu sur un vêtement.
+- Un bouton est un petit objet qui est cousu sur un vêtement. Il sert à le fermer
