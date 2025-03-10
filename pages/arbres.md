@@ -1,1 +1,1 @@
-- un arbre est une très grande plante qui a un tronc, des branches et des feuilles: un platane, un peuplier, un sapin sont des arbres. Un petit arbre est un arbuste.
+- un arbre est une très grande plante qui a un tronc, des branches et des feuilles: un platane, un peuplier, un #sapin sont des arbres. Un petit arbre est un arbuste.
