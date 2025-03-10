@@ -1,1 +1,1 @@
-- Un sapin est un arbre qui reste vert toute l'année: les sap
+- Un sapin est un arbre qui reste vert toute l'année: les sapins ont des feuilles pointues
