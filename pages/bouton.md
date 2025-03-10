@@ -1,1 +1,1 @@
-- Un bouton est un petit
+- Un bouton est un petit objet qui est cousu sur
