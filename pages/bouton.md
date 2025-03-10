@@ -1,1 +1,1 @@
-- Un bouton
+- Un bouton est un petit
