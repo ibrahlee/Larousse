@@ -1,1 +1,1 @@
-- Un fil est un long brin de coton, de Nylon ou de soie: on coud avec du fil et
+- Un fil est un long brin de coton, de Nylon ou de soie: on coud avec du fil et une aiguille.
