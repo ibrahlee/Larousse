@@ -1,1 +1,1 @@
-- Coudre, c'est fixer avec une aiguille et du fil: maman coud un
+- Coudre, c'est fixer avec une aiguille et du fil: maman coud un bouton
