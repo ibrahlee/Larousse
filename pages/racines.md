@@ -1,1 +1,1 @@
-- une racine, la racine est la partie d'une plante
+- une racine, la racine est la partie d'une plante qui se trouve dans la terre. Elle sert ç
