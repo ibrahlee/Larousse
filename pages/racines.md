@@ -1,1 +1,1 @@
-- une racine, la racine est la partie d'une plante qui se trouve dans la terre. Elle sert à la nourrir: les arbres ont de grosses racines.
+- une racine, la racine est la partie d'une plante qui se trouve dans la terre. Elle sert à la nourrir: les #arbres ont de grosses racines.
