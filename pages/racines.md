@@ -1,1 +1,1 @@
-- une racine, la racine
+- une racine, la racine est la partie d'une plante
