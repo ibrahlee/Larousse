@@ -1,1 +1,1 @@
-- c'est être là tout à coup:
+- c'est être là tout à coup: les étoiles apparaissent
