@@ -1,1 +1,1 @@
-- un coup
+- un coup, c'est un choc rapide
