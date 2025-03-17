@@ -1,1 +1,2 @@
 - un appareil photo sert à prendre des photos: papa essaie son nouvel appareil photo.
+- #apparaître
