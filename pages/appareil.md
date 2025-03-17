@@ -1,1 +1,1 @@
-- un appareil photo sert à prendre des
+- un appareil photo sert à prendre des essaie papa  son nouvel
