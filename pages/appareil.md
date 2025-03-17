@@ -1,1 +1,1 @@
-- un appareil photo
+- un appareil photo sert à prendre des
