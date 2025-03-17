@@ -1,1 +1,1 @@
-- un coup, c'est un choc rapide et brutal:
+- un coup, c'est un choc rapide et brutal: Maxime donne un coup de pied
