@@ -1,1 +1,1 @@
-- un appareil photo sert à prendre des photos: papa essaie papa  son nouvel
+- un appareil photo sert à prendre des photos: papa essaie son nouvel appareil photo.
