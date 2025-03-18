@@ -1,2 +1,2 @@
 - un orage, c'est une grosse pluie avec des éclairs et des coups de tonnerre: il y a orage, rentrons vite!
-- on dit {#[[|]}
+- on dit "il y a de l'orage dans l'air"
