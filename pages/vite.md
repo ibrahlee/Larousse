@@ -1,1 +1,1 @@
-- c'
+- c'est en peu de temps: Nicolas s'est habillé vite.
