@@ -1,1 +1,1 @@
-- le tonnerre, c'est le bruit qu'on entend pendant un orage: on entend des coups de tonnerre, un orage va éclater.
+- le tonnerre, c'est le bruit qu'on entend pendant un #orage: on entend des coups de tonnerre, un orage va éclater.
