@@ -1,1 +1,1 @@
-- un orage, c'est une grosse pluie avec des éclairs et des coups de tonnerre
+- un orage, c'est une grosse pluie avec des éclairs et des coups de tonnerre: il y a orage, rentrons vite!
