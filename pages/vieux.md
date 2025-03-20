@@ -1,1 +1,1 @@
-- vieux, vieille
+- vieux, vieille. être vieux, être vie
