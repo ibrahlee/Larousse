@@ -1,1 +1,1 @@
-- c'est mettre en morceaux du papier ou du tissu: papa déchire de vieux papiers.
+- c'est mettre en morceaux du papier ou du tissu: papa déchire de #vieux papiers.
