@@ -2,3 +2,4 @@
   Le contraire de vieux, c'est jeune
   Le moment de la vie où l'on est vieux, c'est la vieillesse.
 - Ce qui est vieux existe depuis longtemps ou a beaucoup servi: papa a mis des vieux vêtements pout faire du bricolage.
+  Le contraire de vieux, c'est neuf ou nouveau.
