@@ -1,1 +1,1 @@
-- quand un pneu
+- quand un pneu crève, il est percé et il se dégonfle:
