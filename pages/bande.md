@@ -1,1 +1,1 @@
-- une bande dessinée, c"
+- une bande dessinée, c'est une histoire racontée avec des dessins qui
