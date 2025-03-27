@@ -1,1 +1,1 @@
-- action de bricoler, bricoest faire des petits travaux dans la maison
+- action de bricoler. Bricoler, c'est faire des petits travaux dans la maison
