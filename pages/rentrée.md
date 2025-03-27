@@ -1,1 +1,1 @@
-- moment ou l'activité reprend apré
+- moment ou l'activité reprend après les vacances
