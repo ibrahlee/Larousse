@@ -1,1 +1,1 @@
-- la peau, c'est
+- la peau, c'est ce qui couvre le corps: on met de la crème
