@@ -1,1 +1,1 @@
-- Petite tige matell
+- Petite tige matellic pointure, qui sert à fixer a
