@@ -1,1 +1,1 @@
-- une roue, c'est un objet rond qui tourne. Il permet aux véhicules
+- une roue, c'est un objet rond qui tourne. Il permet aux véhicules de rouler:
