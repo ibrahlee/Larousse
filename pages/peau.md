@@ -1,2 +1,2 @@
 - la peau, c'est ce qui couvre le corps: on met de la crème sur sa peau pour la protéger du soleil.
-  la peau, c'est ce qui recouvre les fruits et les légumes
+  la peau, c'est ce qui recouvre les fruits et les légumes: on enlève la peau des oranges pour les manger.
