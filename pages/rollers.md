@@ -1,1 +1,1 @@
-- chaussures équipéé de roulletes
+- chaussures équipéé de roulettes
