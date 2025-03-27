@@ -1,1 +1,1 @@
-- action de bricaler, bricaler
+- action de bricoler, bricoler est f
