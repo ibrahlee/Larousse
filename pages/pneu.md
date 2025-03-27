@@ -1,1 +1,1 @@
-- bande
+- bande de caoutchouc qui entoure une roue
