@@ -1,3 +1,4 @@
-- Une aiguille est une petit tige fine en métal qui sert à #coudre: une aiguille a un bout pointu et un petit trou pour passer le #fil.
+- Une aiguille est une petit tige fine en métal qui sert à #coudre: une aiguille a un #bout pointu et un petit trou pour passer le #fil.
 - Les aiguilles d'une pendule montrent l'heure: la petit aiguille est sur le 4: il est quatre heures!
 - #clou
+-

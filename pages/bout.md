@@ -1,0 +1,1 @@
+- le bout d'une chose, c'est la partie
