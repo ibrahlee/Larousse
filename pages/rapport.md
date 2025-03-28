@@ -1,1 +1,2 @@
 - ce qui rapproche deux chose ou deux personnes. Il n'y a aucun rapport entre ces deux évènements. on a toujours eu d'exellents rapports avec nos voisins. (syn. relation)
+- rapprocher, met
