@@ -1,1 +1,1 @@
-- un chemin est une petite route en terre dans la campagne: les chemins traversent les
+- un chemin est une petite route en terre dans la campagne: les chemins traversent les champs, les prés ou les foréts.
