@@ -1,1 +1,1 @@
-- étage d'un
+- étage d'un bâtiment. Cet immeuble
