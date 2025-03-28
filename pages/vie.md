@@ -1,2 +1,2 @@
 - la vie, c'est le temps qui passe entre le moment où l'on naît et le moment où l'on meurt: grand-père a passé toute sa vie à la campagne.
-- un village, c'est un groupe de maisons à la campagne. Un village est plus petit qu'une ville: mes grands-parent
+- un village, c'est un groupe de maisons à la campagne. Un village est plus petit qu'une ville: mes grands-parents habitent un petit village perché sur une colline.
