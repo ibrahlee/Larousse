@@ -1,2 +1,2 @@
-- quand un pneu crève, il est percé et il se dégonfle: j'ai roulé sur un #clou et le pneu de mon vélo a crevé.
+- quand un pneu crève, il est percé et il se dégonfle: j'ai roulé sur un clou et le pneu de mon vélo a crevé.
 -
