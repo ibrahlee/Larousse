@@ -1,1 +1,1 @@
-- ce qui rapproche deux chose
+- ce qui rapproche deux chose ou deux personnes. Il n'y a a
