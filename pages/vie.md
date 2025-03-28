@@ -1,2 +1,2 @@
-- la vie, c'est le temps qui passe entre le moment où l'on naît et le moment où l'on meurt: grand-père
+- la vie, c'est le temps qui passe entre le moment où l'on naît et le moment où l'on meurt: grand-père a passé toute sa vie à la campagne.
 -
