@@ -1,1 +1,1 @@
-- terrasse entourée d'une balustrade et se trouvant sur
+- terrasse entourée d'une balustrade et se trouvant sur la façade d'un
