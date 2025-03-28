@@ -1,2 +1,2 @@
 - le bout d'une chose, c'est la partie qui se trouve à la fin: notre maison est au bout du chemin.
-- un bout est un morce
+- un bout est un morceau: Julien mange un bout de pain.
