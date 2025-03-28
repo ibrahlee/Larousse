@@ -1,1 +1,1 @@
-- le bout d'une chose, c'est la partie
+- le bout d'une chose, c'est la partie qui se trouve à la fin: notre maison est au bout du
