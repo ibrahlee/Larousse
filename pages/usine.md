@@ -1,1 +1,2 @@
-- une usine, c'eset un bâtiment où l'on fabrique toutes sortes
+- une usine, c'est un bâtiment où l'on fabrique toutes sortes de choses à l'aide de machines et de robots:
+-
