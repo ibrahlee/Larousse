@@ -1,2 +1,2 @@
 - étage d'un bâtiment. Cet immeuble a trois niveaux.
-- hauteur
+- hauteur d'une chose
