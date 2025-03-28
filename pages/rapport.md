@@ -1,1 +1,1 @@
-- ce qui rapproche deux chose ou deux personnes. Il n'y a aucun rapport entre ces deux évènements.
+- ce qui rapproche deux chose ou deux personnes. Il n'y a aucun rapport entre ces deux évènements. on a toujours
