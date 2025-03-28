@@ -1,1 +1,1 @@
-- c'eset
+- une usine, c'eset un bâtiment où l'on fabrique toutes sortes
