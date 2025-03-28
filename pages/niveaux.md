@@ -1,2 +1,2 @@
 - étage d'un bâtiment. Cet immeuble a trois niveaux.
-- hauteur d'une chose par rapport à une surface qui sert à
+- hauteur d'une chose par rapport à une surface qui sert à référence.
