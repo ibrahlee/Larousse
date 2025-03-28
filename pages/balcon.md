@@ -1,0 +1,1 @@
+- terrasse entourée d'une balustrade et se trouvant sur
