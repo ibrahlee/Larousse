@@ -1,2 +1,2 @@
-- la vie, c'est
+- la vie, c'est le temps qui passe entre le moment où l'on naît
 -
