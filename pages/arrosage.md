@@ -1,0 +1,1 @@
+- arroser, c'est verser de l'eau sur les plantes
