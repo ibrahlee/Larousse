@@ -1,1 +1,1 @@
-- une tige, la tige d'une #plante c'est la partie longue et fine qui porte les fleurs et les feuilles: mamie coupe la tige des roses avec un sécateur
+- une tige, la tige d'une #plante c'est la partie longue et fine qui porte les fleurs et les feuilles: mamie coupe la tige des roses avec un #sécateur
