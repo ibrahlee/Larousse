@@ -1,0 +1,1 @@
+- finir quelque chose, c'est le faire jusqu'au bout: a
