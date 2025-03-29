@@ -2,3 +2,4 @@
   on dit aussi terminer.
   le contraire de finir, c'est commencer.
   le moment où quelque chose finit, c'est la fin.
+- le début, c'est
