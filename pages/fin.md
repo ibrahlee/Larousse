@@ -4,4 +4,4 @@
   le moment où quelque chose finit, c'est la fin.
 - le début, c'est le moment où quelque chose commence: la distribution, c'est le début de la partie de cartes.
   on dit aussi le commencement.
-  le
+  le contraire du début, c'est la fin
