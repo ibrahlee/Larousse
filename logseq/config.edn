@@ -423,6 +423,6 @@
  :default-home {}
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
- :graph/forcesettings {:link-dist 10
+ :graph/forcesettings {:link-dist 20
  :charge-strength -1000
  :charge-range 500}}
