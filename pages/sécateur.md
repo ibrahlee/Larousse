@@ -1,1 +1,1 @@
-- découper, c'est couper avec
+- découper, c'est couper avec des ciseaux ou un couteau
