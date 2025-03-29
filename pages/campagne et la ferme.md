@@ -1,7 +1,6 @@
 - un champ de blé
 - une moissonneuse-batteuse
-- un pré, des moutons
-- un abreuvoir
+- un pré, des moutons, un abreuvoir
 - la maison
 - la procherie
 - le poulailler
