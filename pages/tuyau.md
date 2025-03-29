@@ -1,1 +1,1 @@
-- un tuyau est un long tube qui sert à faire passer de l'eau ou du ga
+- un tuyau est un long tube qui sert à faire passer de l'eau ou du gaz: le tuyau d'arrosage est resté ouvert.
