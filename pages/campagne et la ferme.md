@@ -3,7 +3,7 @@
 - la maison, la grange, la procherie, le poulailler
 - la fermière
 - un coq, une poule, des poussins
--
+- un dindon, un c
 - un champ est un grand terrain à la campagne où l'on cultive des céréales et des légumes: après la récolte, les agriculteurs récupèrent la #paille dans les champs
   title:: campagne et la ferme
 -
