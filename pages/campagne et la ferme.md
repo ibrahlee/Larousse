@@ -18,7 +18,10 @@
 - des bottes de foin
 - un tas de fumier
 - une camionnette
--
+- un papillon
+- une clôture
+- des coquelicots
+- un rouge-
 - un champ est un grand terrain à la campagne où l'on cultive des céréales et des légumes: après la récolte, les agriculteurs récupèrent la #paille dans les champs
   title:: campagne et la ferme
 -
