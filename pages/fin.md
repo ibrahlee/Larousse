@@ -1,1 +1,1 @@
-- finir quelque chose, c'est le faire jusqu'au bout: a
+- finir quelque chose, c'est le faire jusqu'au bout: quand j'ai fini de me laver, je m'habille.
