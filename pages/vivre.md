@@ -1,2 +1,3 @@
 - c'est être vivant, être en #vie: le caeur de l'oiseau bat, il vit encore
 - vivre, c'est passer sa vie dans un endroit: je vis en banlieue.
+-
