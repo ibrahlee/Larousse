@@ -1,3 +1,3 @@
 - #clou
 - #vis
--
+- les vis sont des cylindres à filetage externe;
