@@ -1,4 +1,4 @@
 - tard, c'est à un moment situé vers la fin de la journée
 - tôt, c'est à un moment situé vers le début de la journée
 - ailleurs, aller ailleurs, c'est aller dans un autre endroit
-- après, c'est plus tard;
+- après, c'est plus tard; c'est plus loin; lecontraire d'après, c'est avant
