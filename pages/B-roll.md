@@ -3,4 +3,4 @@
 - ailleurs, aller ailleurs, c'est aller dans un autre endroit
 - après, c'est plus tard, Paul est arrivé après toi; c'est plus loin, l'école est après la poste; le contraire d'après, c'est avant
 - l'arrière, c'est la partie qui est derrière: les enfants s'assoient à l'arrière de la voiture. Le contraire de l'arrière, c'est l'avant
-- autrefois, c'est il y a longtemps: autrefois, il n'y avait pas de voitures
+- autrefois, c'est il y a longtemps: autrefois, il n'y avait pas de voitures ni d'avions
