@@ -1,2 +1,2 @@
 - un clou, petite tige métallique pointure, qui sert à fixer quelque chose
-- une vis, est une pointe en métal. Elle sert
+- une vis, est une pointe en métal. Elle sert à assembler ou à fixer des planches: on enfon
