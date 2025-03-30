@@ -2,3 +2,4 @@
 - tôt, c'est à un moment situé vers le début de la journée
 - ailleurs, aller ailleurs, c'est aller dans un autre endroit
 - après, c'est plus tard, Paul est arrivé après toi; c'est plus loin, l'école est après la poste; lecontraire d'après, c'est avant
+- l'arrière, c'est la partie qui est derrière
