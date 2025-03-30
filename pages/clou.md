@@ -1,2 +1,2 @@
-- Petite tige métallique pointure, qui sert à fixer quelque chose
+- un clou, petite tige métallique pointure, qui sert à fixer quelque chose
 -
