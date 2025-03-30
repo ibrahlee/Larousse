@@ -1,4 +1,4 @@
-- un champ de blé, une moissonneuse-batteuse
+- un #champ de blé, une moissonneuse-batteuse
 - un pré, des moutons, un abreuvoir
 - la maison, la grange, la procherie, le poulailler
 - la fermière
