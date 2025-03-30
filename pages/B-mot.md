@@ -1,3 +1,3 @@
-- tard, le contraire de tard, c'est tôt
+- tard, c'est à un mole contraire de tard, c'est tôt
 - tôt, c'est à un moment situé vers le début de la journée
 -
