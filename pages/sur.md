@@ -1,1 +1,1 @@
-- ce qui est sur quelque chose est placé
+- ce qui est sur quelque chose est placé au-dessus de cette chose: il y a un bouquet
