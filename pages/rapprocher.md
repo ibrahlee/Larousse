@@ -1,1 +1,1 @@
-- séparer, c'est mettre loin l'une de l'autre des choses ou des personnes qui étaient ensemble
+- séparer, c'est mettre loin l'une de l'autre des choses ou des personnes qui étaient ensemble: la maîtresse a séparé Z
