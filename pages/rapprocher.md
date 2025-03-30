@@ -1,1 +1,1 @@
-- sépa
+- séparer, c'est mettre loin l'une de l'autre
