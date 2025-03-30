@@ -1,1 +1,1 @@
-- séparer, c'est mettre loin l'une de l'autre
+- séparer, c'est mettre loin l'une de l'autre des choses ou des personnes qui étaient ensemble
