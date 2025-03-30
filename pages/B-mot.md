@@ -1,2 +1,2 @@
-- tard
+- tard, le contraire de tard, c'est tôt
 -
