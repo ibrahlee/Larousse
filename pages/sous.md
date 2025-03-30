@@ -1,3 +1,3 @@
 - ce qui est sous quelque chose se trouve plus bas que cette chose: filou est couché sous la table
   le contraire de sous, c'est sur.
-- le sous-sol, c'est la partie d'une maison ou d'un immeuble qui est située sous le rez-de-chau
+- le sous-sol, c'est la partie d'une maison ou d'un immeuble qui est située sous le rez-de-chaussée: la cave se trouve au sous-sol.
