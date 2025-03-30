@@ -1,3 +1,3 @@
 - #niveaux
 - #étage
--
+- en architecture, le terme de nive
