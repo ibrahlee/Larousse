@@ -1,5 +1,5 @@
 - tard, c'est à un moment situé vers la fin de la journée
 - tôt, c'est à un moment situé vers le début de la journée
 - ailleurs, aller ailleurs, c'est aller dans un autre endroit
-- après, c'est plus tard, Paul est arrivé après toi; c'est plus loin, l'école est après la poste; lecontraire d'après, c'est avant
-- l'arrière, c'est la partie qui est derrière: les enfants s'assoient à l'arrière
+- après, c'est plus tard, Paul est arrivé après toi; c'est plus loin, l'école est après la poste; le contraire d'après, c'est avant
+- l'arrière, c'est la partie qui est derrière: les enfants s'assoient à l'arrière de la voiture. Le contraire de l'arrière
