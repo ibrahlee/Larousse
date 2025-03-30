@@ -1,3 +1,3 @@
 - #niveaux
 - #étage
-- en architecture, le terme de niveau désigne tout espace compris
+- en architecture, le terme de niveau désigne tout espace compris entre un plancher
