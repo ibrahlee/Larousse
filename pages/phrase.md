@@ -9,3 +9,4 @@
 - une coccinelle est un insecte qui a les ailes rouges avec des points noires
 - un cochon est un animal de la ferme. il est rose et a la queue en tire-bouchon
 - c'est un muscle qui envoie la sang dans tout le corps
+-
