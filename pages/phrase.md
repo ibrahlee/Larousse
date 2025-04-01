@@ -1,1 +1,2 @@
-- un cinéma, c'est une salle où l'on peut voir des films et des dessins animés sur un grand écran blanc
+- c'est une salle où l'on peut voir des films et des dessins animés sur un grand écran blanc
+-
