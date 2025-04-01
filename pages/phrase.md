@@ -7,3 +7,4 @@
 - une cloche est un objet creux en métal. à l'intérieur, une sorte de bâton la fait résonner en venant frapper contre ses parois: on entend les cloches de l'église sonner
 - un clown est un artiste de cirque. il fait des choses amusantes pour faire rire les spectateurs
 - une coccinelle est un insecte qui a les ailes rouges avec des points noires
+- un cochon
