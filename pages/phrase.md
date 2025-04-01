@@ -14,4 +14,4 @@
 - c'est mettre ses cheveux en ordre avce un peigne ou une brosse
 - être en colère, c'est crier et faire de grandes gestes parce qu'on n'est pas content
 - la colle est une sorte de pâte qui sert à faire tenir deux choses ensemble
-- ce sont des objets
+- ce sont des objets de la même sorte qu'on garde parce qu'on les aime
