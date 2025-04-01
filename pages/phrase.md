@@ -3,4 +3,4 @@
 - c'est un lieu où l'on peut voir un spectacle avec des clowns, des acrobates, des jongleurs, des dompteurs et des animaux
 - clair de lune, c'est la lumière qu'envoie la lune
 - une classe est une salle de l'école où les élèves travaillents
-- une clé
+- une clé est un objet en métal qui sert à ouvrir et à fermer
