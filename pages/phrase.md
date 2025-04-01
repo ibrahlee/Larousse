@@ -1,2 +1,2 @@
 - c'est une salle où l'on peut voir des films et des dessins animés sur un grand écran blanc
-- c'est quand il y a beacoup de voitures, de caimons, des autocars et de motos
+- c'est quand il y a beacoup de voitures, de caimons, d'autocars et de motos qui roulent
