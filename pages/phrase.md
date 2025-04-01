@@ -10,7 +10,7 @@
 - un cochon est un animal de la ferme. il est rose et a la queue en tire-bouchon
 - c'est un muscle qui envoie la sang dans tout le corps
 - un coffre est une caisse avec un couvercle
-- c'est se donner un coup sans le faire exprès et se
+- c'est se donner un coup sans le faire exprès et se faire mal
 - c'est mettre ses cheveux en ordre avce un peigne ou une brosse
 - être en colère, c'est crier et faire de grandes gestes parce qu'on n'est pas content
 - la colle est une sorte de pâte qui sert à faire tenir deux choses ensemble
