@@ -16,4 +16,4 @@
 - la colle est une sorte de pâte qui sert à faire tenir deux choses ensemble
 - ce sont des objets de la même sorte qu'on garde parce qu'on les aime
 - un collier est un bijou qu'on porte autour du cou
-- c'est mettre des couleurs
+- c'est mettre des couleurs sur un dessin
