@@ -1,0 +1,1 @@
+- un cinéma, c'est une salle où l'on peut voir des films et
