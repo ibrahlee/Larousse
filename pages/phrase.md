@@ -4,3 +4,4 @@
 - clair de lune, c'est la lumière qu'envoie la lune
 - une classe est une salle de l'école où les élèves travaillents
 - une clé est un objet en métal qui sert à ouvrir et à fermer une porte ou un tiroir
+- une cloche est un
