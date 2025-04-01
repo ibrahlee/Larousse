@@ -10,4 +10,4 @@
 - un cochon est un animal de la ferme. il est rose et a la queue en tire-bouchon
 - c'est un muscle qui envoie la sang dans tout le corps
 - un coffre est une caisse avec un couvercle
-- c'est mettre ses cheveux en ordre avce un peigneou une brosse
+- c'est mettre ses cheveux en ordre avce un peigne ou une brosse
