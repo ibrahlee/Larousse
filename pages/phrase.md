@@ -18,3 +18,4 @@
 - un collier est un bijou qu'on porte autour du cou
 - c'est mettre des couleurs sur un dessin
 - c'est donner des ordres
+- c'est se mettre
