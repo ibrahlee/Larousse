@@ -12,4 +12,5 @@
 - un coffre est une caisse avec un couvercle
 - c'est mettre ses cheveux en ordre avce un peigne ou une brosse
 - être en colère, c'est crier et faire de grandes gestes parce qu'on n'est pas content
+- la colle est une sorte de pâte qui sert
 -
