@@ -8,3 +8,4 @@
 - un clown est un artiste de cirque. il fait des choses amusantes pour faire rire les spectateurs
 - une coccinelle est un insecte qui a les ailes rouges avec des points noires
 - un cochon est un animal de la ferme. il est rose et a la queue en tire-bouchon
+-
