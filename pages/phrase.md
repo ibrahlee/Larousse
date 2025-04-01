@@ -6,4 +6,4 @@
 - une clé est un objet en métal qui sert à ouvrir et à fermer une porte ou un tiroir
 - une cloche est un objet creux en métal. à l'intérieur, une sorte de bâton la fait résonner en venant frapper contre ses parois: on entend les cloches de l'église sonner
 - un clown est un artiste de cirque. il fait des choses amusantes pour faire rire les spectateurs
-- coccinelle
+- coccinelle est un in
