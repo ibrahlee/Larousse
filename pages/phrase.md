@@ -11,4 +11,4 @@
 - c'est un muscle qui envoie la sang dans tout le corps
 - un coffre est une caisse avec un couvercle
 - c'est mettre ses cheveux en ordre avce un peigne ou une brosse
-- la colère, être en colère,
+- être en colère, c'est
