@@ -1,1 +1,2 @@
-- espèce de petit mur peu épais servant à la distribution d'un appa
+- espèce de petit mur peu épais servant à la distribution d'un appartement ou d'un bâtement #quelconque
+-
