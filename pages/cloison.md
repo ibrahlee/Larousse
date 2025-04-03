@@ -1,1 +1,1 @@
-- espèce de petit mur peu épais
+- espèce de petit mur peu épais servant à la distribution d'un appa
