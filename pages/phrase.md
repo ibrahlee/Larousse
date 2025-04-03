@@ -2,7 +2,7 @@
 - c'est quand il y a beacoup de voitures, de caimons, d'autocars et de motos qui roulent
 - c'est un lieu où l'on peut voir un spectacle avec des clowns, des acrobates, des jongleurs, des dompteurs et des animaux: le cirque est installé sous une grande tente qu'on appelle un chapiteau
 - une paire de ciseaux, c'est un objet fait du deux lames qui sert à découper du papier ou du tissu
-- un citron est un fuite
+- un citron est un fuite des pays chaud
 - clair de lune, c'est la lumière qu'envoie la lune
 - une classe est une salle de l'école où les élèves travaillents
 - une clé est un objet en métal qui sert à ouvrir et à fermer une porte ou un tiroir
