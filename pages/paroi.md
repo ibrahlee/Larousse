@@ -1,0 +1,1 @@
+- cloison de maçconnerie qui sépare une chambre ou queque autre pi
