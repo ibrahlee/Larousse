@@ -31,3 +31,4 @@
 - une chose est compliquée quand il faut faire beacoup d'efforts pour la comprendre
 - c'est savoir ce que quelque chose veut dire
 - c'est savoir les nombres dans l'ordre
+- compter des personn
