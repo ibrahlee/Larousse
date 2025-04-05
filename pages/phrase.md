@@ -51,4 +51,4 @@
 - une corde à sauter a deux poignées. elle sert à jouer
 - les grandes parties du corps humain sont la tête, le tronc, les bras et les jambes
 - une côte est route qui est en pente
-- une côte, c'est chacun des os
+- une côte, c'est chacun des os allongés et courbes qui protègent le caeur et les poumons
