@@ -44,4 +44,4 @@
 - c'est faire ce qui est montré sur le modèle
 - un coq est un oiseau de la ferme. il a une crête rouge sur la tête et de belles plumes sur la queue
 - un coquelicot est une fleur rouge qui pousse dans les champs
--
+- un coquillage est un petit animal
