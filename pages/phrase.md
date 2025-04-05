@@ -26,4 +26,4 @@
 - c'est se mettre à faire quelque chose
 - c'est regarder si des choses sont pareilles ou différentes
 - un endroit est complet quand il n'y a plus de place
-- un ensemble
+- un ensemble de chose est complet quand il ne manque rien
