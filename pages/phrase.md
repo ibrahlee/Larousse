@@ -37,4 +37,5 @@
 - c'est la savoir parce qu'on l'a apprise: Flore connaît une nouvelle comptine
 - c'est l'avoir déjà rencontrée et savoir qui elle est
 - c'est lui parler gentiment pour qu'elle n'ait plus de peine
-- construire une maison ou un bâtiment, c'est les fabriquer en assemblant des matériaux
+- construire une maison ou un bâtiment, c'est les fabriquer en assemblant des matériaux; on dit aussi bâtir, le contraire est démolir
+-
