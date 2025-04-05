@@ -34,4 +34,4 @@
 - compter des personnes ou des objets, c'est dire combien il y en a
 - c'est être au volant pour la faire rouler
 - la confiture est faite avec des fruits cuits mélangés à du sucre
-- c'est la savoir parce qu'on l'a apprise: Flore
+- c'est la savoir parce qu'on l'a apprise: Flore connaît une nouvelle comptine
