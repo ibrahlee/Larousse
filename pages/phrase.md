@@ -29,3 +29,4 @@
 - un endroit est complet quand il n'y a plus de place
 - un ensemble de chose est complet quand il ne manque rien
 - une chose est compliquée quand il faut faire beacoup d'efforts pour la comprendre
+- c'est savoir ce que quelque
