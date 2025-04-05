@@ -49,4 +49,4 @@
 - un corbeau est un gros oiseau noir
 - une corde est une grosse ficelle très solide
 - une corde à sauter a deux poignées. elle sert à jouer
--
+- les grandes parties du corps humain sont la tête
