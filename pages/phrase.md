@@ -33,4 +33,4 @@
 - c'est savoir les nombres dans l'ordre
 - compter des personnes ou des objets, c'est dire combien il y en a
 - c'est être au volant pour la faire rouler
-- la confiture est faite avec
+- la confiture est faite avec des fruits cuits mélangés à du sucre
