@@ -42,4 +42,4 @@
 - on est content quand quelque chose nous fait plaisir
 - c'est ne pas s'arrêter de faire quelque chose
 - c'est faire ce qui est montré sur le modèle
--
+- un coq est un oiseau de la ferme. il a une crête rouge
