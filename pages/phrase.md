@@ -25,6 +25,6 @@
 - c'est demander à l'avance à un marchand quelque chose qu'on viendra chercher plus tard
 - c'est se mettre à faire quelque chose
 - c'est regarder si des choses sont pareilles ou différentes
--
+- qui est semblable
 - un endroit est complet quand il n'y a plus de place
 - un ensemble de chose est complet quand il ne manque rien
