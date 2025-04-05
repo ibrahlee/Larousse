@@ -24,4 +24,4 @@
 - c'est donner des ordres
 - c'est demander à l'avance à un marchand quelque chose qu'on viendra chercher plus tard
 - c'est se mettre à faire quelque chose
-- c'est regqrder si des choses sont par
+- c'est regarder si des choses sont pareilles ou différentes
