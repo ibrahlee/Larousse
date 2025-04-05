@@ -41,4 +41,4 @@
 - un conte est une histoire inventée qui raconte des choses extraordinaires
 - on est content quand quelque chose nous fait plaisir
 - c'est ne pas s'arrêter de faire quelque chose
-- c'est f
+- c'est faire ce qui est montré sur le modé
