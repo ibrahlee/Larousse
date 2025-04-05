@@ -36,4 +36,4 @@
 - la confiture est faite avec des fruits cuits mélangés à du sucre
 - c'est la savoir parce qu'on l'a apprise: Flore connaît une nouvelle comptine
 - c'est l'avoir déjà rencontrée et savoir qui elle est
-- c'est lui parler gentiment pour qu
+- c'est lui parler gentiment pour qu'elle n'ait plus de peine
