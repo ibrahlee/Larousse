@@ -46,4 +46,4 @@
 - un coquelicot est une fleur rouge qui pousse dans les champs
 - un coquillage est un petit animal de mer
 - une coquille est une chose dure. elle protège ce qui est à l'intérieur
-- un corbeau
+- un corbeau est un gros oiseau noir
