@@ -47,4 +47,4 @@
 - un coquillage est un petit animal de mer
 - une coquille est une chose dure. elle protège ce qui est à l'intérieur
 - un corbeau est un gros oiseau noir
-- une corde est grosse fi
+- une corde est une grosse ficelle très solide
