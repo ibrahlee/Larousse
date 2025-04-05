@@ -38,4 +38,4 @@
 - c'est l'avoir déjà rencontrée et savoir qui elle est
 - c'est lui parler gentiment pour qu'elle n'ait plus de peine
 - construire une maison ou un bâtiment, c'est les fabriquer en assemblant des matériaux; on dit aussi bâtir, le contraire est démolir
-- un conte est une histoire inventée
+- un conte est une histoire inventée qui raconte des choses extraordinaires
