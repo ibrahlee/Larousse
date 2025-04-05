@@ -48,4 +48,5 @@
 - une coquille est une chose dure. elle protège ce qui est à l'intérieur
 - un corbeau est un gros oiseau noir
 - une corde est une grosse ficelle très solide
-- une corde à sauter
+- une corde à sauter a deux poignées. elle sert à jouer
+-
