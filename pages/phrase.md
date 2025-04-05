@@ -28,4 +28,4 @@
 - qui est semblable par l'aspect, la nature, la valeur, etc., à quelqu'un ou quelque chose d'autre
 - un endroit est complet quand il n'y a plus de place
 - un ensemble de chose est complet quand il ne manque rien
-- une chose est compliquée quand il faut faire beacoup d"
+- une chose est compliquée quand il faut faire beacoup d'efforts pour la comprendre
