@@ -62,4 +62,4 @@
   quand on coud, on fait de la couture
 - une couette, c'est une grande enveloppe de tissu remplie de petites plumes ou d'une matière qui tient chaud
   une couette, c'est une coifure qu'on fait en attachant les cheveux de chaque côté de la tête
--
+- couler, quand on liquide coule, il se déplace d'un endroit
