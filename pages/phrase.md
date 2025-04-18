@@ -54,4 +54,4 @@
 - une côte, c'est chacun des os allongés et courbes qui protègent le caeur et les poumons
 - les côtés d'une forme, ce sont les lignes qui l'entourent: les quatre côtés d'un carré ont la même longueur
   le côté, c'est la partie qui est à droite ou à gauche de quelque chose: Florian marche sur le côté gauche de la route.
-  être à côté près de lui: en
+  être à côté près de lui: en classe, je suis assise à côté de Romain
