@@ -56,3 +56,4 @@
   le côté, c'est la partie qui est à droite ou à gauche de quelque chose: Florian marche sur le côté gauche de la route.
   être à côté près de lui: en classe, je suis assise à côté de Romain
 - se coucher, c'est se mettre au lit;
+  se coucher, c'est disparaître,
