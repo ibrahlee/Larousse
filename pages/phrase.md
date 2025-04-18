@@ -53,3 +53,4 @@
 - une côte est route qui est en pente
 - une côte, c'est chacun des os allongés et courbes qui protègent le caeur et les poumons
 - les côtés d'une forme, ce sont les lignes qui l'entourent: les quatre côtés d'un carré ont la même longueur
+  le côtés
