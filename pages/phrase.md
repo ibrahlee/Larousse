@@ -60,4 +60,4 @@
   le contrqire de se coucher, c'est se lever
 - coudre, c'est fixer avec une aiguille et du fil
   quand on coud, on fait de la couture
--
+- une couette, c
