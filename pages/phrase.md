@@ -59,3 +59,5 @@
   se coucher, c'est disparaître, quand on parle du Soleil ou de la Lune: le soir, le Soleil se couche
   le contrqire de se coucher, c'est se lever
 - coudre, c'est fixer avec une aiguille et du fil
+  quand on coud, on fait de la couture
+-
