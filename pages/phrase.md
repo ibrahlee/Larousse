@@ -57,7 +57,7 @@
   être à côté près de lui: en classe, je suis assise à côté de Romain
 - se coucher, c'est se mettre au lit;
   se coucher, c'est disparaître, quand on parle du Soleil ou de la Lune: le soir, le Soleil se couche
-  le contrqire de se coucher, c'est se lever
+  le contraire de se coucher, c'est se lever
 - coudre, c'est fixer avec une aiguille et du fil
   quand on coud, on fait de la couture
 - une couette, c'est une grande enveloppe de tissu remplie de petites plumes ou d'une matière qui tient chaud
