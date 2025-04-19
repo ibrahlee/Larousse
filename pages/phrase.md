@@ -75,4 +75,4 @@
   le contraire de courageux, c'est peureux
   une personne courageuse a du courage
 - courir, c'est avancer très vite
-- le courrier, c'est les lettres et les cartes qu'on
+- le courrier, c'est les lettres et les cartes qu'on envoie et qu'on reçoit par la poste
