@@ -73,4 +73,5 @@
 - la cour de l'école, c'est la partie située dehors, où les élèves peuvent jouer:
 - être courageux, c'est faire une chose difficile qui fait peur
   le contraire de courageux, c'est peureux
-  une personne courageuse
+  une personne courageuse a du courage
+- courir, c'es
