@@ -67,4 +67,5 @@
 - un coup, c'est un choc rapide et brutal
   un coup, c'est un bruit très fort et soudain, qui ne dure pas
   un coup, c'est chaque fois qu'on essaie de faire quelque chose
+- couper, c'est séparer en plusieurs morceaux avec un
 - la cour de l'école, c'est la partie située dehors, où les élèves peuvent jouer:
