@@ -69,5 +69,5 @@
   un coup, c'est chaque fois qu'on essaie de faire quelque chose
 - couper, c'est séparer en plusieurs morceaux avec un couteau
   c'est enlever une partie avec des ciseaux
-  c'est s'ouvrir un peu
+  c'est s'ouvrir un peu la peau et saigner
 - la cour de l'école, c'est la partie située dehors, où les élèves peuvent jouer:
