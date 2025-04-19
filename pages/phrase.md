@@ -63,4 +63,4 @@
 - une couette, c'est une grande enveloppe de tissu remplie de petites plumes ou d'une matière qui tient chaud
   une couette, c'est une coifure qu'on fait en attachant les cheveux de chaque côté de la tête
 - couler, quand on liquide coule, il se déplace d'un endroit à un autre, il se répand: l'eau coule du robinet.
-- une couleur, le bleu, le jaune, le rouge, le vert sont de couleurs: pour avoir du vert, on mélonge deux couleurs, le
+- une couleur, le bleu, le jaune, le rouge, le vert sont de couleurs: pour avoir du vert, on mélonge deux couleurs, le jaune et le bleu
