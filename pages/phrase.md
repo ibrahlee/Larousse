@@ -80,3 +80,4 @@
 - ce qui est court a une petite distance d'un bout à l'autre: Lucie a les cheveux courts
   ce qui est court ne dure pas longtemps: le film est court.
   le contraire de court, c'est long.
+-
