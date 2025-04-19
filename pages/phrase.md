@@ -76,3 +76,4 @@
   une personne courageuse a du courage
 - courir, c'est avancer très vite
 - le courrier, c'est les lettres et les cartes qu'on envoie et qu'on reçoit par la poste
+- Quand on fait la course, on court
