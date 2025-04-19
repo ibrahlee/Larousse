@@ -74,4 +74,4 @@
 - être courageux, c'est faire une chose difficile qui fait peur
   le contraire de courageux, c'est peureux
   une personne courageuse a du courage
-- courir, c'es
+- courir, c'est avancer très vite
