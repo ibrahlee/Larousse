@@ -78,4 +78,5 @@
 - le courrier, c'est les lettres et les cartes qu'on envoie et qu'on reçoit par la poste
 - Quand on fait la course, on court très vite pour arriver le permier
 - ce qui est court a une petite distance d'un bout à l'autre: Lucie a les cheveux courts
-  ce qui est court ne dure pas longtemps:
+  ce qui est court ne dure pas longtemps: le film est court.
+  le contraire de court, c'est long.
