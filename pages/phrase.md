@@ -89,4 +89,5 @@
 - une crèche, c'est l'endroit où des grandes personnes s'occupent des bébés pendant la journée
 - la crème, c'est la matière grasse qui est dans le lait
 - une crêpe est faite avec de la farine, du lait et des aeufs. on la fait cuire dans une poêle
-- creuser, c'est faire
+- creuser, c'est faire un trou dans le sol: le chien creuse la terre pour cacher son os
+-
