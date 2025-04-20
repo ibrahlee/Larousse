@@ -88,4 +88,4 @@
 - un crayon, c'est une sorte de petit bâton avec une mine à l'intérieur. il sert à écrire et à dessiner
 - une crèche, c'est l'endroit où des grandes personnes s'occupent des bébés pendant la journée
 - la crème, c'est la matière grasse qui est dans le lait
-- une crêpe est faite avec
+- une crêpe est faite avec de la farine, du lait et des aeufs.
