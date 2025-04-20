@@ -87,3 +87,4 @@
 - un crapaud est un animal qui resemble à une grosse grenouille, mais qui a des pattes arrière bien plus courtes qu'elle
 - un crayon, c'est une sorte de petit bâton avec une mine à l'intérieur. il sert à écrire et à dessiner
 - une crèche, c'est l'endroit où des grandes personnes s'occupent des bébés pendant la journée
+- la crème, c'est la ma
