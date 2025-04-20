@@ -90,4 +90,4 @@
 - la crème, c'est la matière grasse qui est dans le lait
 - une crêpe est faite avec de la farine, du lait et des aeufs. on la fait cuire dans une poêle
 - creuser, c'est faire un trou dans le sol: le chien creuse la terre pour cacher son os
-- quand un pneu crère, il est
+- quand un pneu crère, il est percé et il se dégonfle
