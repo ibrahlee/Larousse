@@ -93,3 +93,4 @@
 - quand un pneu crère, il est percé et il se dégonfle
 - un cri, c'est un son très fort qu'on fait avec sa voix
 - croiser, les jambes ou les bras, c'est les mettre l'un sur l'autre, en formant une croix
+-
