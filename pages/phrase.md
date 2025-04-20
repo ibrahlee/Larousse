@@ -83,4 +83,4 @@
 - un couteau est un objet fait d'un manche et d'une lame
 - c'est un grande tissu épais et chaud qu'on met sur les draps
   la couverture d'un livre, c'est le carton qui protège toutes les pages: le titre d'un livre est écrit sur la couverture.
-- une craie est un petit bâton qui sert à écrire
+- une craie est un petit bâton qui sert à écrire sur un tableau ou sur une ardoise. elle se casse facilement
