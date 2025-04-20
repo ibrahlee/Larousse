@@ -82,4 +82,4 @@
   le contraire de court, c'est long.
 - un couteau est un objet fait d'un manche et d'une lame
 - c'est un grande tissu épais et chaud qu'on met sur les draps
-  la couverture d'un livre, c'est le carton qui pro
+  la couverture d'un livre, c'est le carton qui protège toutes les pages
