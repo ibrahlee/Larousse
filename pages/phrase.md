@@ -81,4 +81,4 @@
   ce qui est court ne dure pas longtemps: le film est court.
   le contraire de court, c'est long.
 - un couteau est un objet fait d'un manche et d'une lame
-- c'est un
+- c'est un grande tissu épais et chaud qu'on met sur les draps
