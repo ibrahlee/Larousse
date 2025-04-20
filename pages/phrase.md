@@ -84,4 +84,4 @@
 - c'est un grande tissu épais et chaud qu'on met sur les draps
   la couverture d'un livre, c'est le carton qui protège toutes les pages: le titre d'un livre est écrit sur la couverture.
 - une craie est un petit bâton qui sert à écrire sur un tableau ou sur une ardoise. elle se casse facilement
-- un crapaud est un animal qui resemble à une grosse
+- un crapaud est un animal qui resemble à une grosse grenouille, mais qui a des pattes arrière bien plus courtes qu'elle
