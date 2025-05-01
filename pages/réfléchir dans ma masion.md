@@ -1,4 +1,8 @@
-- ![image.png](../assets/image_1746088784268_0.png)
+-
+-
+-
+-
+- ![image.png](../assets/image_1746088784268_0.png){:height 793, :width 462}
 -
 - ![image.png](../assets/image_1746088945224_0.png)
 - ![image.png](../assets/image_1746089000912_0.png)
