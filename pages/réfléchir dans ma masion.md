@@ -1,7 +1,7 @@
 - ![image.png](../assets/image_1746088264930_0.png)
 - ![image.png](../assets/image_1746088326611_0.png)
-- Un embouteillage se forme quand les voitures sont trop nombreuses sur larouteetqu'ellesnepeuvent
-   plusavancer
+- Un embouteillage se forme quand les voitures sont trop nombreuses sur la route et qu'elles ne peuvent plus avancer
+-
 -
 -
 -
